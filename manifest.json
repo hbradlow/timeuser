@@ -10,7 +10,7 @@
         "http://*/"
     ],
     "background": {
-        "scripts": ["assets/jquery.min.js", "harness/test.js"]
+        "scripts": ["assets/jquery.min.js", "harness/test.js", "fun_facts/fun_facts.js"]
     },
     "browser_action": {
         "default_icon": "assets/icon.png",
