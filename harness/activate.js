@@ -3,5 +3,5 @@ function add_to_id(id,s){
 }
 var background = chrome.extension.getBackgroundPage();
 $(function(){
-    background.test("#container");
+    background.pong("#container");
 });
