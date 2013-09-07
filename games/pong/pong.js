@@ -27,9 +27,9 @@ Pong = {
   },
 
   Images: [
-    "images/press1.png",
-    "images/press2.png",
-    "images/winner.png"
+    "../games/pong/images/press1.png",
+    "../games/pong/images/press2.png",
+    "../games/pong/images/winner.png"
   ],
 
   Levels: [
